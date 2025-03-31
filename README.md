@@ -35,9 +35,6 @@ Si deseas clonar y ejecutar este proyecto de manera local, sigue estos pasos:
    npm run dev
    ```
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia **MIT**.
 
 ---
 _¡Gracias por visitar RapBlog!_ 🎤🔥
